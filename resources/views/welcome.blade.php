@@ -81,7 +81,7 @@ background: linear-gradient(55deg, rgba(156,35,39,1) 7%, rgba(35,34,34,1) 96%);
             padding: 50px;
             text-align: left;
             background: rgb(156,35,39);
-background: linear-gradient(145deg, rgba(156,35,39,1) 7%, rgba(35,34,34,1) 96%);
+            background: linear-gradient(145deg, rgba(156,35,39,1) 7%, rgba(35,34,34,1) 96%);
         }
 
         .hero h1 {
